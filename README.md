@@ -1,9 +1,10 @@
 <p align="center">
 <img src="./Android/database/K.Prabhasha.gif" alt="Loading..." width="320"/>
+	
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ADD8E6&center=true&width=1000&height=200&lines=HASA-MD-BOT" alt="Typing SVG" /></a>
 <div align="center">
 	<h3>👧🏻HASA-MD WHATSAPP BOT👧🏻</h3>
-<img src="https://ibb.co/G3Mst5DD" width="300" height="150">
+<img src="https://i.ibb.co/VcY2mQRS/6768.jpg" width="300" height="150">
 </div>
 <div align="center">
 </p>
