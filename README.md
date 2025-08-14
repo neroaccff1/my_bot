@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=70&pause=700&color=FF007F&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%91%91+DARK+NERO+MD+%F0%9F%94%A5" alt="Typing SVG"</a>
 <div algin="center">
-<img src="https://i.ibb.co/VcY2mQRS/6768.jpg" width="600" height="350">
+<img src="https://i.ibb.co/VcY2mQRS/6768.jpg" width="900" height="650">
 </div>
 <div align="center">
 </p>
