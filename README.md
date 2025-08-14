@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./Android/database/K.Prabhasha.gif" alt="Loading..." width="320"/>p<
+<img src="./Android/database/K.Prabhasha.gif" alt="Loading..." width="320"/><p
 	
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ADD8E6&center=true&width=1000&height=200&lines=DARK-NERO" alt="Typing SVG" /></a>
 <div align="center">
