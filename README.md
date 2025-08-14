@@ -8,7 +8,7 @@
 
 
 	<h3>👧🏻DARK-NERO WHATSAPP BOT👧🏻</h3>
-<img src="https://i.ibb.co/VcY2mQRS/6768.jpg" width="300" height="150">
+<img src="https://i.ibb.co/VcY2mQRS/6768.jpg" width="400" height="250">
 </div>
 <div align="center">
 </p>
