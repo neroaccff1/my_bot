@@ -1,12 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=700&color=F70094&center=true&vCenter=true&width=1000&height=80&lines=👋+Hey+there!+Welcome+to+DARK+NERO+MD+Bot+The+Official+Repository+💻;✅+Created+in+August+2025;🚀+Advanced+Features+%7C+Smooth+Performance+🧠;🔗+Fork+it+and+⭐+Star+the+Project)](https://git.io/typing-svg)
 
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=70&pause=700&color=FF007F&center=true&vCenter=true&width=1000&height=300&lines=%F0%9F%91%91+DARK+NERO+MD+%F0%9F%94%A5" alt="Typing SVG"</a>
 <div algin="center">
-	<h3>👧🏻DARK-NERO WHATSAPP BOT👧🏻</h3>
 <img src="https://i.ibb.co/VcY2mQRS/6768.jpg" width="400" height="250">
 </div>
 <div align="center">
