@@ -1,3 +1,12 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=700&color=F70094&center=true&vCenter=true&width=1000&height=80&lines=👋+Hey+there!+Welcome+to+DARK+NERO+MD+Bot+The+Official+Repository+💻;✅+Created+in+August+2025;🚀+Advanced+Features+%7C+Smooth+Performance+🧠;🔗+Fork+it+and+⭐+Star+the+Project)](https://git.io/typing-svg)
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=55&pause=700&color=FF007F&center=true&vCenter=true&width=990&height=100&lines=%F0%9F%91%91+DARK+NERO+MD+BOT+%F0%9F%94%A5;READY+TO+SERVE" alt="Typing SVG"</a>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <p align="center">
 <img src="./Android/database/K.Prabhasha.gif" alt="Loading..." width="320"/><p
 	
