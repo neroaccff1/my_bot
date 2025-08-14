@@ -12,7 +12,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+PRAMITHA+NERO+MD+DEVELOPER)](https://git.io/typing-svg)
 
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+HASA-MD...;Created+by+Ishen...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+DARK-NERO-MD..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+NERO-MD...;Created+by+Pramitha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+DARK-NERO-MD..."
             alt="Typing">
 
 <p align="center">
