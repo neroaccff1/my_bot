@@ -17,9 +17,3 @@
 
 <p align="center">
 <img src="https://i.ibb.co/6tCrPD6/image-downloader-1654443961039.gif" alt="nz" width="350"/>
-
-<div align="center">
-	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="ishen">
-</div>
-
-<hr>
