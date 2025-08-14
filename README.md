@@ -7,8 +7,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=60&pause=700&color=FF007F&center=true&vCenter=true&width=1000&height=200&lines=%F0%9F%91%91+DARK+NERO+MD+%F0%9F%94%A5" alt="Typing SVG"</a>
 
 <div algin="cemter">
-	
 	<h3>👧🏻DARK-NERO WHATSAPP BOT👧🏻</h3>
+<div algin="cemter">
 <img src="https://i.ibb.co/VcY2mQRS/6768.jpg" width="400" height="250">
 </div>
 <div align="center">
